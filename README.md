@@ -7,6 +7,8 @@ An Alfred workflow to perform bulk search via Logophile.
 
 The workflow file allows you to search multiple dictionaries via [Logophile](http://www.dicwizard.jp/logophile/) application.
 
+Please note that the workflow depends upon Ruby 1.8 (OMG) embedded within Mac OS X to use 'require osx/cocoa'. The workflow would not work if legacy Ruby might discontinued or updated.
+
 # Requirement
 
 - Mac OS environment
